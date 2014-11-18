@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>hei</groupId>
-		<artifactId>tp07-awt</artifactId>
+		<artifactId>tp07-ght</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>tp07-front</artifactId>

@@ -3,7 +3,7 @@
   <artifactId>tp07-core</artifactId>
   <parent>
   	<groupId>hei</groupId>
-  	<artifactId>tp07-awt</artifactId>
+  	<artifactId>tp07-ght</artifactId>
   	<version>0.0.1-SNAPSHOT</version>
   </parent>
 </project>
