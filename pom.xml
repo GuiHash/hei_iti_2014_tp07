@@ -7,5 +7,6 @@
   
   <modules>
   	<module>tp07-front</module>
+  	<module>tp07-core</module>
   </modules>
 </project>
