@@ -9,7 +9,11 @@
 	<artifactId>tp07-front</artifactId>
 	<packaging>war</packaging>
 
-
-	
-
+	<dependencies>
+		<dependency>
+			<groupId>${project.groupId}</groupId>
+			<artifactId>tp07-core</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+	</dependencies>
 </project>
